@@ -62,10 +62,10 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
+global.mygit = 'https://github.com/EcaaMc'
+global.myyt = 'https://youtube.com/c/EcaaChan'
+global.myytv = 'https://youtu.be/ey7qLuRB***'
+global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi***"
 global.botname = 'CacaBot-MD'
 global.akulaku = 'Bot By CacaOwn'
 global.ytname = 'YT EcaaChan'
